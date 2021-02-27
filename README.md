@@ -11,7 +11,7 @@ To play this game you should have installed JVM on your machine and knowledge of
 2. Open the terminal and navigate to the directory that contains `Main.class`
 3. Type the following command in terminal to run the program- 
 ```
-$java Main
+$java Main.java
 ```
 
 #### OR
@@ -23,7 +23,7 @@ $javac Main.java
 ```
 4. Type the following command in terminal to run the program- 
 ```shell
-$java Main.java
+$java Main
 ```
 
 #### Example Output:
