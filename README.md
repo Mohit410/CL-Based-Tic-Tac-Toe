@@ -7,14 +7,15 @@ To play this game you should have installed JVM on your machine and knowledge of
 1. Java Virtual Machine
 2. Terminal Commands Knowledge
 ### How to Play
+#### For JDK 11 or higher versions(single cmd for compile and run):
 1. Download or clone the `Main.class` file to the local machine
-2. Open the terminal and navigate to the directory that contains `Main.class`
+2. Open the terminal and navigate to the directory that contains ``
 3. Type the following command in terminal to run the program- 
 ```
-$java Main
+$java Main.java
 ```
 
-#### OR
+#### For any JDK version(Different cmd for compiler and run): 
 1. Download or clone the `Main.java` file to the local machine
 2. Open the terminal and navigate to the directory that contains `Main.java`
 3. Type the following command in terminal to compile source file - 
